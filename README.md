@@ -13,3 +13,7 @@ How to Run this project:
 2: After that, run the index.html file. that will run the project.
 
 Make sure to put all files in a single folder or the project will not run properly.
+
+
+Output:
+![image](https://github.com/rohankokane3738/Portfollio/assets/121534086/04faf7d0-678b-44f6-9364-b886c54e2c9e)
